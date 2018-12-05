@@ -17,5 +17,6 @@
   }
   &:hover {
     transform: translateY(-1.5rem) scale(1.03);
+     box-shadow: 0 2.5rem 7rem rgba($color-black, .18);
   }
 }
