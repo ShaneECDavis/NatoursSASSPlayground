@@ -4,3 +4,5 @@ Simple Website learning how to work better with more advanced CSS w/ SASS or SCS
 using Live Server
 
 npm run compile:sass
+
+Shane EC Davis
